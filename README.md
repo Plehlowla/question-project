@@ -1,6 +1,6 @@
 # question-project
  
-![qa1](aq1.png)
+![qa1](qa1.png)
 ![qa2](qa2.png)
 
 
